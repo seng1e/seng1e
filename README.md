@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/seng1e/count.svg)
 
 <!--
 **seng1e/seng1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
