@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+- Researcher in software supply chain security and open-source ecosystem security. 
+- 😄 Open to fully-funded PhD positions for Fall 2026, especially in AI security.
 ![Visitor Count](https://profile-counter.glitch.me/seng1e/count.svg)
 
 <!--
