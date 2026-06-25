@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-- Researcher in software supply chain security and open-source ecosystem security. 
-- 😄 Open to fully-funded PhD positions for Fall 2026, especially in AI security.
-![Visitor Count](https://profile-counter.glitch.me/seng1e/count.svg)
+* AI researcher exploring LLMs, agentic intelligence, evaluation, and cyber-capable AI systems.
+* Currently working on model capability evaluation, agentic AI systems, and AI for cybersecurity.
+
 
 <!--
-**seng1e/seng1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seng1e/seng1e** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on LLMs, agentic AI, and cyber-capable AI systems.
+- 🌱 I’m currently learning advanced model evaluation and AI security.
+- 👯 I’m looking to collaborate on AI security, LLM evaluation, and agentic systems.
+- 💬 Ask me about LLMs, AI security, software supply chain security, and open-source ecosystem security.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
